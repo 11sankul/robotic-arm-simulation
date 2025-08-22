@@ -12,7 +12,10 @@ This project simulates a simple 2D robotic arm using Python.
 - NumPy
 - Matplotlib
 
+## 📸 Example Output
+Here’s what the simulation looks like:
 
+![Arm Plot](demo.png)
 
 
 # Run it once with 
