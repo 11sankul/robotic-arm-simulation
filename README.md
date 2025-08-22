@@ -12,15 +12,17 @@ This project simulates a simple 2D robotic arm using Python.
 - NumPy
 - Matplotlib
 
+
+
+# Run
+- python robotic-arm.py
+
+
 Install dependencies:
 ```bash
 pip install numpy matplotlib
 
 
-# Run
-python robotic-arm.py
 
 
-# Demo
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/378ce25f-f5aa-4da0-9a31-b9f1f1906f6b" />
 
